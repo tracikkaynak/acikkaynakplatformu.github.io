@@ -1,4 +1,4 @@
-# Summary
+# Özet
 
-* [Introduction](README.md)
+* [Türkiye Açık Kaynak Platformu Nedir?](README.md)
 
